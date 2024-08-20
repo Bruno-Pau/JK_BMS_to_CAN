@@ -23,20 +23,15 @@ This card can communicate with 4 serial lines, but only one (BMS1) is used in th
 
 # JK BMS protocol
 Look at 
-[BMS-RS485Communication protocol.pdf](https://github.com/Bruno-Pau/JK_BMS_to_CAN/blob/main/BMS-RS485Communication%20protocol.pdf)<br>
->***BMS-RS485Communication protocol.pdf***
+[BMS-RS485 Communication protocol.pdf](https://github.com/Bruno-Pau/JK_BMS_to_CAN/blob/main/BMS-RS485Communication%20protocol.pdf)<br>
 
 # CAN Pylon emulation protocol
-Look at 
->***CAN-Bus-protocol-PYLON-low-voltage-V1.2-20180408.pdf***
+Look at [CAN Pylon emulation protocol.pdf](https://github.com/Bruno-Pau/JK_BMS_to_CAN/blob/main/CAN-Bus-protocol-PYLON-low-voltage-V1.2-20180408.pdf)<br>
 
 # ESP32 code
 code was developed under Arduino 2.0 environnement
->***JkBms_Sofar5.ino***
+[Sofar5.ino](https://github.com/Bruno-Pau/JK_BMS_to_CAN/blob/main/JkBms_Sofar5.ino) <br>
 
 # Other links
 [JK BMS RS485 protocol](https://github.com/jblance/mpp-solar/issues/112) <br>
-[]() <br>
-[]() <br>
-[]() <br>
-[]() <br>
+
