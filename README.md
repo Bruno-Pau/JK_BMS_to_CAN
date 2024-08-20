@@ -23,12 +23,12 @@ This card can communicate with 4 serial lines, but only one (BMS1) is used in th
 To connect with the SOFAR I had to isolate the RS232 from CAN.<br>
 It's why I used a ADuM1201 isolation module.
 
+## caution
+Do not connect V1 (3.3V) of the ADuM1201 directly to the BMS, because the JK BMS sends 50V and not 3.3V! <br>
+
 # JK BMS protocol
 ## Look at 
 [BMS-RS485 Communication protocol.pdf](https://github.com/Bruno-Pau/JK_BMS_to_CAN/blob/main/BMS-RS485Communication%20protocol.pdf)<br>
-
-## caution
-Do not connect V1 (3.3V) of the ADuM1201 directly to the BMS, because the JK BMS sends 50V and not 3.3V! <br>
 
 # CAN Pylon emulation protocol
 Look at [CAN Pylon emulation protocol.pdf](https://github.com/Bruno-Pau/JK_BMS_to_CAN/blob/main/CAN-Bus-protocol-PYLON-low-voltage-V1.2-20180408.pdf)<br>
