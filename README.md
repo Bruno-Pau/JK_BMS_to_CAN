@@ -9,7 +9,7 @@ So I had to develop an interface between my JK BMS and the SOFAR. <br><br>
 The interface is based on a ESP32 whith a MPC2515 CAN interface <br>
 ![Image](carte_ESP32.png) <br> <br>
 Communication between ESP32 and JK BMS is based on RS232 TTL with JK proprietary protocol. <br>
-Communication between ESP32 and SOFAR is based on CAN whith Pylon emulation. <br> <br>
+Communication between ESP32 and SOFAR is based on CAN whith Pylon emulation (PylonTech US2000). <br> <br>
 # List of equipment
 [ESP32](https://fr.aliexpress.com/item/1005006629784548.html)<br>
 [MPC2515](https://fr.aliexpress.com/item/1005005223498304.html)<br>
@@ -20,6 +20,8 @@ Communication between ESP32 and SOFAR is based on CAN whith Pylon emulation. <br
 # ESP32 card schematic diagram
 ![Image](Interface_SOFAR_JK_2.png) <br><br>
 This card can communicate with 4 serial lines, but only one (BMS1) is used in this program.<br>
+To connect with the SOFAR I had to isolate the RS232 from CAN.<br>
+It's why I used a ADuM1201 isolation module.
 
 # JK BMS protocol
 Look at 
