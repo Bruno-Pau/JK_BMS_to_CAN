@@ -24,7 +24,7 @@ To connect with the SOFAR I had to isolate the RS232 from CAN.<br>
 It's why I used a ADuM1201 isolation module.
 
 ## caution
-Do not connect V1 (3.3V) of the ADuM1201 directly to the BMS, because the JK BMS sends 50V and not 3.3V! <br><br>
+Do not connect U2 (ADuM1201 3.3V) directly to the BMS, because the JK BMS sends 50V and ADuM1201 needs only 3.3V! <br><br>
 
 # JK BMS protocol
 ## Look at 
