@@ -8,6 +8,6 @@ So I had to develop an interface between my JK BMS and the SOFAR. <br><br>
 ![Image](schema_install_photovoltaique_2.png) <br> <br>
 The interface is based on a ESP32 whith a MPC2515 CAN interface <br>
 ![Image](carte_ESP32.png) <br> <br>
-Communication between ESP32 and JK BMS is based on RS232 TTL with JK proprietary protocol
-![Image](.png) <br> <br>
-![Image](.png) <br> <br>
+Communication between ESP32 and JK BMS is based on RS232 TTL with JK proprietary protocol. <br>
+Communication between ESP32 and SOFAR is based on CAN whith Pylon emulation. <br> <br>
+
