@@ -23,7 +23,7 @@ This card can communicate with 4 serial lines, but only one (BMS1) is used in th
 
 # JK BMS protocol
 Look at 
-[BMS-RS485Communication protocol.pdf](https://github.com/Bruno-Pau/JK_BMS_to_CAN/BMS-RS485Communication protocol.pdf)<br>
+[BMS-RS485Communication protocol.pdf](https://github.com/Bruno-Pau/JK_BMS_to_CAN/blob/main/BMS-RS485Communication%20protocol.pdf)<br>
 >***BMS-RS485Communication protocol.pdf***
 
 # CAN Pylon emulation protocol
