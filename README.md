@@ -27,11 +27,10 @@ It's why I used a ADuM1201 isolation module.
 Do not connect U2 (ADuM1201 3.3V) directly to the BMS, because the JK BMS sends 50V and ADuM1201 needs only 3.3V! <br><br>
 
 # JK BMS protocol
-## Look at 
 [BMS-RS485 Communication protocol.pdf](https://github.com/Bruno-Pau/JK_BMS_to_CAN/blob/main/BMS-RS485Communication%20protocol.pdf)<br><br>
 
 # CAN Pylon emulation protocol
-Look at [CAN Pylon emulation protocol.pdf](https://github.com/Bruno-Pau/JK_BMS_to_CAN/blob/main/CAN-Bus-protocol-PYLON-low-voltage-V1.2-20180408.pdf)<br><br>
+[CAN Pylon emulation protocol.pdf](https://github.com/Bruno-Pau/JK_BMS_to_CAN/blob/main/CAN-Bus-protocol-PYLON-low-voltage-V1.2-20180408.pdf)<br><br>
 
 # ESP32 code
 This code was developed under Arduino 2.0 environnement <br>
