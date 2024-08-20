@@ -45,7 +45,8 @@ While part of this sketch is designed to replicate CAN data to inverter/chargers
 > destroy your battery system. <br>
 > destroy your inverter/chargers. <br>
 > burn your house down. <br>
-> do anything worse. <br><br>
+> do anything worse.
+<br><br>
 
 ## YOU HAVE BEEN WARNED!
 
