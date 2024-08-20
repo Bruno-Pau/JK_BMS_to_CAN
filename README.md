@@ -19,6 +19,7 @@ Communication between ESP32 and SOFAR is based on CAN whith Pylon emulation. <br
 
 # ESP32 card schematic diagram
 ![Image](Interface_SOFAR_JK_2.png) <br><br>
+This card can communicate with 4 serial lines, but only one (BMS1) is used in this program.<br>
 
 # JK BMS protocol
 Look at 
