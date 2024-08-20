@@ -29,7 +29,7 @@ Look at
 Look at [CAN Pylon emulation protocol.pdf](https://github.com/Bruno-Pau/JK_BMS_to_CAN/blob/main/CAN-Bus-protocol-PYLON-low-voltage-V1.2-20180408.pdf)<br>
 
 # ESP32 code
-code was developed under Arduino 2.0 environnement
+This code was developed under Arduino 2.0 environnement <br>
 [Sofar5.ino](https://github.com/Bruno-Pau/JK_BMS_to_CAN/blob/main/JkBms_Sofar5.ino) <br>
 
 # Other links
