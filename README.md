@@ -24,28 +24,29 @@ To connect with the SOFAR I had to isolate the RS232 from CAN.<br>
 It's why I used a ADuM1201 isolation module.
 
 ## caution
-Do not connect V1 (3.3V) of the ADuM1201 directly to the BMS, because the JK BMS sends 50V and not 3.3V! <br>
+Do not connect V1 (3.3V) of the ADuM1201 directly to the BMS, because the JK BMS sends 50V and not 3.3V! <br><br>
 
 # JK BMS protocol
 ## Look at 
-[BMS-RS485 Communication protocol.pdf](https://github.com/Bruno-Pau/JK_BMS_to_CAN/blob/main/BMS-RS485Communication%20protocol.pdf)<br>
+[BMS-RS485 Communication protocol.pdf](https://github.com/Bruno-Pau/JK_BMS_to_CAN/blob/main/BMS-RS485Communication%20protocol.pdf)<br><br>
 
 # CAN Pylon emulation protocol
-Look at [CAN Pylon emulation protocol.pdf](https://github.com/Bruno-Pau/JK_BMS_to_CAN/blob/main/CAN-Bus-protocol-PYLON-low-voltage-V1.2-20180408.pdf)<br>
+Look at [CAN Pylon emulation protocol.pdf](https://github.com/Bruno-Pau/JK_BMS_to_CAN/blob/main/CAN-Bus-protocol-PYLON-low-voltage-V1.2-20180408.pdf)<br><br>
 
 # ESP32 code
 This code was developed under Arduino 2.0 environnement <br>
-[Sofar5.ino](https://github.com/Bruno-Pau/JK_BMS_to_CAN/blob/main/JkBms_Sofar5.ino) <br>
+[Sofar5.ino](https://github.com/Bruno-Pau/JK_BMS_to_CAN/blob/main/JkBms_Sofar5.ino) <br><br>
 
 # Warning
 Messing around with your battery system is not a good idea unless you really, really, know what you are doing. You will also most likely INVALIDATE ANY WARRANTIES.<br><br>
 
 While part of this sketch is designed to replicate CAN data to inverter/chargers, IT IS YOUR RESPONSIBILITY to ensure the system behaves correctly and the batteries are properly managed within their operational parameters. Don't come bleating if you:<br><br>
 
-*** destroy your battery system.*** <br>
-*** destroy your inverter/chargers.*** <br>
-*** burn your house down.*** <br>
-*** do anything worse.*** <br>
+> destroy your battery system. <br>
+> destroy your inverter/chargers. <br>
+> burn your house down. <br>
+> do anything worse. <br><br>
+
 ## YOU HAVE BEEN WARNED!
 
 # Other links
