@@ -10,4 +10,9 @@ The interface is based on a ESP32 whith a MPC2515 CAN interface <br>
 ![Image](carte_ESP32.png) <br> <br>
 Communication between ESP32 and JK BMS is based on RS232 TTL with JK proprietary protocol. <br>
 Communication between ESP32 and SOFAR is based on CAN whith Pylon emulation. <br> <br>
-
+# List of equipment
+[ESP32](https://fr.aliexpress.com/item/1005006629784548.html)
+[MPC2515](https://fr.aliexpress.com/item/1005005223498304.html)
+[ADuM1201](https://fr.aliexpress.com/item/32815864904.html)
+[Micro JST 1.25mm Connector](https://fr.aliexpress.com/item/4001171710583.html)
+[JK BMS](https://fr.aliexpress.com/item/1005004590744267.html)
