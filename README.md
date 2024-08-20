@@ -1,5 +1,5 @@
 # JK_BMS_to_CAN
-RS232 TTL to CAN Pylon Emulation Interface on ESP32
+JK BMS (RS232 TTL) to CAN Pylon Emulation Interface on ESP32 <br> <br>
 # Introduction
 Last year I built a photovoltaic system with batteries.<br>
 I bought a SOFAR HYD 6000-ES inverter, LiFePo4 batteries and BMS (Battery Management System).
