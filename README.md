@@ -21,7 +21,7 @@ Communication between ESP32 and SOFAR is based on CAN whith Pylon emulation. <br
 ![Image](Interface_SOFAR_JK_2.png) <br><br>
 
 # JK BMS protocol
-Look at (BMS-RS485Communication protocol.pdf)
+Look at *BMS-RS485Communication protocol.pdf*
 
 # CAN Pylon emulation protocol
-Look at CAN-Bus-protocol-PYLON-low-voltage-V1.2-20180408.pdf
+Look at *CAN-Bus-protocol-PYLON-low-voltage-V1.2-20180408.pdf*
