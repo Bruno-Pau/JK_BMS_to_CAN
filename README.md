@@ -40,12 +40,12 @@ This code was developed under Arduino 2.0 environnement <br>
 # Warning
 Messing around with your battery system is not a good idea unless you really, really, know what you are doing. You will also most likely INVALIDATE ANY WARRANTIES.<br><br>
 
-While part of this sketch is designed to replicate CAN data to additional inverter/chargers, IT IS YOUR RESPONSIBILITY to ensure the system behaves correctly and the batteries are properly managed within their operational parameters. Don't come bleating if you:<br><br>
+While part of this sketch is designed to replicate CAN data to inverter/chargers, IT IS YOUR RESPONSIBILITY to ensure the system behaves correctly and the batteries are properly managed within their operational parameters. Don't come bleating if you:<br><br>
 
-destroy your battery system.<br>
-destroy your inverter/chargers.<br>
-burn your house down.<br>
-do anything worse.<br>
+*** destroy your battery system.*** <br>
+*** destroy your inverter/chargers.*** <br>
+*** burn your house down.*** <br>
+*** do anything worse.*** <br>
 ## YOU HAVE BEEN WARNED!
 
 # Other links
