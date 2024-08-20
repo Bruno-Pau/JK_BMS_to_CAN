@@ -51,5 +51,5 @@ While part of this sketch is designed to replicate CAN data to inverter/chargers
 ## YOU HAVE BEEN WARNED!
 
 # Other links
-[JK BMS RS485 protocol](https://github.com/jblance/mpp-solar/issues/112) <br>
+[jblance - JK BMS RS485 protocol](https://github.com/jblance/mpp-solar/issues/112) <br>
 
